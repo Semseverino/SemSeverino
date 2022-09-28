@@ -3,7 +3,8 @@ Software developer
 
 * 🌍  I'm based in São Paulo Brazil
 * ✉️  You can contact me at [severinosem9@gmail.com](mailto:severinosem9@gmail.com)
-* 🧠  I'm learning Java, JavaScript, python and kotlin
+* 🧠  I'm learning Java, JavaScript, Node, python and kotlin
+* I develop with Node
 
 <a href="https://www.twitch.tv/Semseverino" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/Semseverino?logo=twitchsx&style=for-the-badge&color=0f172a&labelColor=1e3a8a&label=TWITCH+STATUS" /></a>
